@@ -21,9 +21,9 @@ plugins:
 authors:
     vidyasagar:
       name:           Vidyasagar
-      site:           https://vidyasagar.bitbucket.io
+      site:           https://vidyaasagar.bitbucket.io
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Vidyasagar, one of the author of this blog.I hope you learn something out of my blog posts.Love to perform magic tricks with code."
+      bio:            "Hi, I am Vidyasagar, one of the author of this blog.Love to perform magic tricks with code.I hope you learn something out of my blog posts."
       email:          vidyasagar484@gmail.com
       twitter:        https://twitter.com/vidya4ever
 
